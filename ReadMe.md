@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on making a car rental platform<br>
+🔭 I’m currently working on making a car rental platform in it's entirety. Frontend, Backend, Cloud, DevOps, Cybersecurity, it's all me<br>
 💻 I’m also working with a start-up to help connect up and coming designers with artists to create opportunities for partnerships and branding<br>
 👯 I’m looking to work on any projects relating to biotech, so I can see first hand how my software is helping people<br>
 🌱 I’m currently learning machine learning, quantum science, and network security<br>
