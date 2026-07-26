@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on developing a project to connect food retailers and food banks to help reduce food waster and hunger<br>
-💻I’m also working with a start-up to help connect up and coming designers with artists to create opportunities for partnerships and branding<br>
+🔭 I’m currently working on making a car rental platform<br>
+💻 I’m also working with a start-up to help connect up and coming designers with artists to create opportunities for partnerships and branding<br>
 👯 I’m looking to work on any projects relating to biotech, so I can see first hand how my software is helping people<br>
 🌱 I’m currently learning machine learning, quantum science, and network security<br>
 ⚡ Fun fact: I'm an even bigger nerd than you'd think. Talk to me about Magic the Gathering, Warhammer, Video Games, Anime, anything!
