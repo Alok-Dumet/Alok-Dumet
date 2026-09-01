@@ -64,9 +64,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# 📊 GitHub Stats:
-![GitHub Streak](https://streak-stats.demolab.com/?user=Alok-Dumet&theme=dark&hide_border=false)
-
 ### ✍️ Dev Quote of the Hour!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
