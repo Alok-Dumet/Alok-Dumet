@@ -65,9 +65,7 @@
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Alok-Dumet&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alok-Dumet&theme=dark&hide_border=false&layout=compact)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=Alok-Dumet&theme=github-dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Alok-Dumet&theme=dark&hide_border=false)
 
 ### ✍️ Dev Quote of the Hour!
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
